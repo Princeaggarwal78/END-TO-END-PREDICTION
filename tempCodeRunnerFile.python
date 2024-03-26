@@ -1,0 +1,7 @@
+import sys
+
+# Accessing command-line arguments
+print("Command-line arguments:", sys.argv)
+
+# Exiting the program with a specific exit code
+sys.exit(0)  # Exits the program with exit code 0 (indicating success)
